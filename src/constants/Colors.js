@@ -1,5 +1,6 @@
 export default {
-    DEFAULT_GREEN: '#8ed9d1',
+    DEFAULT_BLUE: '#0088ff',
+    DEFAULT_GREEN: '#87EEE3FF',
     DEFAULT_BLACK: '#000',
     DEFAULT_WHITE: '#fff',
     DEFAULT_GREY: '#f2f2f2',
